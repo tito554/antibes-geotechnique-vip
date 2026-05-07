@@ -1,0 +1,62 @@
+# Antibes
+
+> Geotechnical engineering company in France, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Amelioration](https://antibes.geotechnique.vip/amelioration/)
+- [Analyse Coulees Debris](https://antibes.geotechnique.vip/analyse-coulees-debris/)
+- [Analyse Damplification Sismique](https://antibes.geotechnique.vip/analyse-damplification-sismique/)
+- [Analyse Geotechnique Tunnels Sols](https://antibes.geotechnique.vip/analyse-geotechnique-tunnels-sols/)
+- [Analyse Granulometrique](https://antibes.geotechnique.vip/analyse-granulometrique/)
+- [Analyse Lerosion Sols](https://antibes.geotechnique.vip/analyse-lerosion-sols/)
+- [Analyse Reponse Site](https://antibes.geotechnique.vip/analyse-reponse-site/)
+- [Analyse Rupture Pente](https://antibes.geotechnique.vip/analyse-rupture-pente/)
+- [Analyse Stabilite Pentes](https://antibes.geotechnique.vip/analyse-stabilite-pentes/)
+- [Analyse Tassements](https://antibes.geotechnique.vip/analyse-tassements/)
+- [Au Dilatometre Plat](https://antibes.geotechnique.vip/au-dilatometre-plat/)
+- [Calcul Coefficient Securite](https://antibes.geotechnique.vip/calcul-coefficient-securite/)
+- [Cisaillement Au Scissometre Chantier](https://antibes.geotechnique.vip/cisaillement-au-scissometre-chantier/)
+- [Cisaillement Direct](https://antibes.geotechnique.vip/cisaillement-direct/)
+- [Conception Chaussees Rigides](https://antibes.geotechnique.vip/conception-chaussees-rigides/)
+- [Conception Compactage Dynamique](https://antibes.geotechnique.vip/conception-compactage-dynamique/)
+- [Conception Drainage Geotechnique](https://antibes.geotechnique.vip/conception-drainage-geotechnique/)
+- [Conception Fondations Pieux](https://antibes.geotechnique.vip/conception-fondations-pieux/)
+- [Conception Fondations Superficielles](https://antibes.geotechnique.vip/conception-fondations-superficielles/)
+- [Conception Geocellules](https://antibes.geotechnique.vip/conception-geocellules/)
+- [Conception Murs Soutenement](https://antibes.geotechnique.vip/conception-murs-soutenement/)
+- [Conception Pieux Battus](https://antibes.geotechnique.vip/conception-pieux-battus/)
+- [Conception Prechargement Surcharge](https://antibes.geotechnique.vip/conception-prechargement-surcharge/)
+- [Conception Radier General](https://antibes.geotechnique.vip/conception-radier-general/)
+- [Conception Remblais Routiers](https://antibes.geotechnique.vip/conception-remblais-routiers/)
+- [Conception Rideaux Palplanches](https://antibes.geotechnique.vip/conception-rideaux-palplanches/)
+- [Conception Stabilisation Pentes](https://antibes.geotechnique.vip/conception-stabilisation-pentes/)
+- [Conception Vibrocompactage](https://antibes.geotechnique.vip/conception-vibrocompactage/)
+- [Cone Penetration Test](https://antibes.geotechnique.vip/cone-penetration-test/)
+- [Consolidation Œdometrique](https://antibes.geotechnique.vip/consolidation-œdometrique/)
+- [Essais In Situ](https://antibes.geotechnique.vip/essais-in-situ/)
+- [Etude Cbr Conception Routiere](https://antibes.geotechnique.vip/etude-cbr-conception-routiere/)
+- [Etude Mecanique Sols](https://antibes.geotechnique.vip/etude-mecanique-sols/)
+- [Evaluation Chaussees Existantes](https://antibes.geotechnique.vip/evaluation-chaussees-existantes/)
+- [Evaluation Glissements Terrain](https://antibes.geotechnique.vip/evaluation-glissements-terrain/)
+- [Evaluation Sols Affaissables](https://antibes.geotechnique.vip/evaluation-sols-affaissables/)
+- [Evaluation Sols Gonflants](https://antibes.geotechnique.vip/evaluation-sols-gonflants/)
+- [Excavations Souterraines](https://antibes.geotechnique.vip/excavations-souterraines/)
+- [Exploration](https://antibes.geotechnique.vip/exploration/)
+- [Fondations](https://antibes.geotechnique.vip/fondations/)
+- [Geophysique](https://antibes.geotechnique.vip/geophysique/)
+- [Geotechnique Centres Denfouissement](https://antibes.geotechnique.vip/geotechnique-centres-denfouissement/)
+- [Geotechnique Routiere](https://antibes.geotechnique.vip/geotechnique-routiere/)
+- [Gestion Sols Organiques](https://antibes.geotechnique.vip/gestion-sols-organiques/)
+- [Ground Penetrating Radar](https://antibes.geotechnique.vip/ground-penetrating-radar/)
+- [Instrumentation Geotechnique](https://antibes.geotechnique.vip/instrumentation-geotechnique/)
+- [Laboratoire](https://antibes.geotechnique.vip/laboratoire/)
+- [Microzonage Sismique](https://antibes.geotechnique.vip/microzonage-sismique/)
+- [Normal Modifie](https://antibes.geotechnique.vip/normal-modifie/)
+- [Pentes](https://antibes.geotechnique.vip/pentes/)
+
+## Contact
+- Website: https://antibes.geotechnique.vip/
+
+## About
+This page provides information about geotechnical engineering services available in France.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
